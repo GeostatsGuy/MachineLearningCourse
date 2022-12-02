@@ -52,15 +52,17 @@ This includes the following repositories that may be helpful:
 
 ##### YouTube
 
-To support my students and provide an evergreen resource that outlasts the semester, I record the lectures and post them on YouTube channel GeostatsGuy Lectures. (Links to an external site.)
+To support my students and provide an evergreen resource that outlasts the semester, I record the lectures and post them on YouTube channel [GeostatsGuy Lectures](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig).
 
-Links to an external site.
+This includes the following playlists:
+
+* **[Machine Learning](https://www.youtube.com/playlist?list=PLG19vXLQHvSC2ZKFIkgVpI9fCjkN38kwf)** - all the lectures for this course.
 
 ##### Twitter
 
-Follow me at https://twitter.com/GeostatsGuy (Links to an external site.)
+Follow me on [Twitter](https://twitter.com/GeostatsGuy) where I'm the GeostatsGuy!
 
-Links to an external site..  I tweet daily about data analytics, geostatistics and machine learning ideas and resources, engineering, and infrequently unrelated to engineering or science (e.g. outdoors activities and local live music).
+* I tweet daily about data analytics, geostatistics and machine learning ideas and resources, engineering, and infrequently unrelated to engineering or science (e.g. outdoors activities and local live music).
 
 #### Textbook
  
