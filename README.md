@@ -98,8 +98,11 @@ Here's the motivation and more details:
 
 * **produce a comprehensive, concise, well-documented, machine learning workflow in a Jupyter Notebook**. Opportunity to apply course learnings and demonstrate a high level of proficiency. With permission, I post the workflows online in this GitHub repository and use it to support future classes (with credit).
 
-* **open-source contributions to GitHub are recognized in many companies.
+* **open-source** contributions to GitHub are recognized in many companies.
 
+* to assist I have provided a [project template](https://github.com/GeostatsGuy/MachineLearningCourse/blob/main/PGE383_ProjectTemplate.ipynb).
+
+* the workflows are graded by the following criteria:
 
 | Element                | Description |
 |------------------------|-------------|
