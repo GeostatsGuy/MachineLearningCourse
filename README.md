@@ -58,6 +58,13 @@ This includes the following playlists:
 
 * **[Machine Learning](https://www.youtube.com/playlist?list=PLG19vXLQHvSC2ZKFIkgVpI9fCjkN38kwf)** - all the lectures for this course.
 
+* **[Data Analytics and Geostatistics](https://www.youtube.com/playlist?list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ)** - the lectures for my Data Analytics and Geostatistics course as useful prerequisites for this course.
+
+* **[Spatial Data Analytics and Modeling](https://www.youtube.com/playlist?list=PLG19vXLQHvSDUmEOmBoaxGbFAbvaLdfx4)** - the lectures for my Spatial Data Analytics and Modeling course as useful prerequisites for this course.
+
+* **[Data Science Basics in Python](https://www.youtube.com/playlist?list=PLG19vXLQHvSAufDFgZEFAYQEwMJXklnQV)** - live code walkthoughs of well-documented data science workflows in Python to assist with machine learning model workflow creation.
+
+
 ##### Twitter
 
 Follow me on [Twitter](https://twitter.com/GeostatsGuy) where I'm the GeostatsGuy!
