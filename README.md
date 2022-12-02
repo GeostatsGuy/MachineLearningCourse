@@ -13,6 +13,20 @@ For more about Michael check out these links:
 
 #### [Twitter](https://twitter.com/geostatsguy) | [GitHub](https://github.com/GeostatsGuy) | [Website](http://michaelpyrcz.com) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en&oi=ao) | [Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [YouTube](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)  | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1)
 
+#### Course TAs and Contributors:
+
+##### Fall 2019 - Honggeun Jo, Graduate Student, The University of Texas at Austin
+#### [LinkedIn](https://www.linkedin.com/in/yuchen-jack-xiao-b1b20876/) | [Website](https://michaelpyrcz.com/my-students-1)
+
+##### Fall 2020 - Jack Xiao, Graduate Student, The University of Texas at Austin
+#### [LinkedIn](https://www.linkedin.com/in/honggeun-jo/) | [Website](https://michaelpyrcz.com/my-students-1)
+
+##### Fall 2021 - Mide Mabadeje, Graduate Student, The University of Texas at Austin
+#### [LinkedIn](https://www.linkedin.com/in/ademidemabadeje/) | [Website](https://michaelpyrcz.com/my-students-1)
+
+##### Fall 2022 - Misael Morales, Graduate Student, The University of Texas at Austin
+#### [LinkedIn](https://www.linkedin.com/in/misaelmmorales/) | [Website](https://michaelpyrcz.com/my-students-1)
+
 ## PGE 383 / GEO 391: Subsurface Machine Learning Graduate Course
 Graduate class at the University of Texas at Austin, from the syllabus:
 
