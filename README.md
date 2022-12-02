@@ -89,6 +89,20 @@ Pyrcz, M. and Deutsch, C., Geostatistical Reservoir Modeling, Oxford University 
 
 Also, various journal papers will be posted for reference.    
 
+#### Machine Learning Projects
+
+As part of the course, all students complete a machine learning project. 
+
+The challenge: build a well-documented, educational machine learning workflow.
+
+Here's the motivation and more details:
+
+* **produce a comprehensive, concise, well-documented, machine learning workflow in a Jupyter Notebook**. Opportunity to apply course learnings and demonstrate a high level of proficiency. With permission, I post the workflows online in this GitHub repository and use it to support future classes (with credit).
+
+* **open-source contributions to GitHub are recognized in many companies.
+
+The term projects are 
+
 #### This is Going to Be Fun
 
 I hope you join us in my PGE 383: Subsurface Modeling class. We have about 40 graduate students from engineering and geoscience participating here at the University of Texas at Austin. The Jackson School of Geosciences offered a new classroom in their building after we outgrew our room in the Petroleum and Geosystems engineering department. I appreciate the excellent support from both the Hidebrand Department of Petroleum and Geosystems Engineering and the Jackson School of Geosciences.
