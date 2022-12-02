@@ -66,7 +66,6 @@ This includes the following playlists:
 
 * **[Data Science Basics in Python](https://www.youtube.com/playlist?list=PLG19vXLQHvSAufDFgZEFAYQEwMJXklnQV)** - live code walkthoughs of well-documented data science workflows in Python to assist with machine learning model workflow creation.
 
-
 ##### Twitter
 
 Follow me on [Twitter](https://twitter.com/GeostatsGuy) where I'm the GeostatsGuy!
@@ -101,7 +100,22 @@ Here's the motivation and more details:
 
 * **open-source contributions to GitHub are recognized in many companies.
 
-The term projects are 
+
+| Element                | Description |
+|------------------------|-------------|
+| Great Executive Summary | Gap, Work to Address Gap, Learnings and Recommendation |
+| Workflow Steps          |  All Aligned with Goal                                                                                                    |
+| Concise Workflow        | Every Step and Figure has a Purpose / Consistent with Provided Template / Features Briefly Explained / Feature have Units |
+| Images / Figures         | Excellent Figures / Subplots and Combined Plots for Efficient Displays and Communication / Axes Labeled / Consistent Figure Sizes |
+| Demonstrated Knowledge  | All Modeling Choices Defended / Demonstrated Extension of Knowledge                                                               | 
+| Readable Code           | Code Documentation / Steps’ Description and Observations between Code Blocks / Only Include Needed Packages / Use Function for Concise Code |
+| Citations               | All Code from Others Cited                                                                                                        |
+| Creativity / Innovation | Unique, Novel Application of Machine Learning                                                                                     |
+
+I share these to promote the students' work. 
+
+* We are teaching novel data analytics, geostatistics and machine learning skills to engineering and science students.
+
 
 #### This is Going to Be Fun
 
