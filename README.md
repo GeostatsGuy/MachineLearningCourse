@@ -40,15 +40,17 @@ My GitHub Repositories are [here](https://github.com/GeostatsGuy).
 
 This includes the following repositories that may be helpful:
 
-* **ExcelNumericalDemos** – worked out examples in Microsoft Excel of statistical concepts such as distributions, hypothesis tests, confidence intervals, heterogeneity measures, spatial continuity, kriging, simulation, bootstrap and decision making in the presence of uncertainty.
-    
-* **Geostatsr** – workflows in R for linear regression, spatial continuity, kriging, simulation, principal components analysis, and decision tree.
-    
-* **PythonNumericalDemos** – worked out examples in Python, Jupyter Notebooks with Markdown for data analytics (bootstrap, declustering, principal components analysis, decision tree, and support vector machines, deep learning etc.
-    
-* **GeostatLectures** – short lectures and posters with concise descriptions of topics in geostatistics.
+* **[PythonNumericalDemos](https://github.com/GeostatsGuy/PythonNumericalDemos)** – worked out examples in Python, Jupyter Notebooks with Markdown for data analytics (bootstrap, declustering, principal components analysis, decision tree, and support vector machines, deep learning etc.
 
-* **GeostatsPy** – spatial data analytics Python package that I wrote to support this course and everyone will install.
+* **[GeoDataSets](https://github.com/GeostatsGuy/GeoDataSets))** – synthetic, but realistic spatiotemporal, multivariate datasets to support my students and my educational content.
+   
+* **[Geostatsr]()** – workflows in R for linear regression, spatial continuity, kriging, simulation, principal components analysis, and decision tree.
+    
+* **[GeostatLectures](https://github.com/GeostatsGuy/GeostatsLectures)** – short lectures and posters with concise descriptions of topics in geostatistics.
+
+* **[GeostatsPy](https://github.com/GeostatsGuy/GeostatsPy)** – spatial data analytics Python package that I wrote to support this course and everyone will install.
+
+* **[ExcelNumericalDemos](https://github.com/GeostatsGuy/ExcelNumericalDemos)** – worked out examples in Microsoft Excel of statistical concepts such as distributions, hypothesis tests, confidence intervals, heterogeneity measures, spatial continuity, kriging, simulation, bootstrap and decision making in the presence of uncertainty.
 
 ##### YouTube
 
