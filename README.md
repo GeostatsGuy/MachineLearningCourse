@@ -27,6 +27,14 @@ For more about Michael check out these links:
 ##### Fall 2022 - Misael Morales, Graduate Student, The University of Texas at Austin
 #### [LinkedIn](https://www.linkedin.com/in/misaelmmorales/) | [Website](https://michaelpyrcz.com/my-students-1)
 
+
+##### Fall 2023 Lei Liu, Graduate Student, The University of Texas at Austin
+#### [LinkedIn](https://www.linkedin.com/in/leiliu96/) | [Website](https://michaelpyrcz.com/my-students-1)
+
+
+##### Spring 2025 - Elnara Rustamzade, Graduate Student, The University of Texas at Austin
+#### [LinkedIn](https://www.linkedin.com/in/elnara-rustamzade/) | [Website](https://michaelpyrcz.com/my-students-1)
+
 ## PGE 383 / GEO 391: Subsurface Machine Learning Graduate Course
 Graduate class at the University of Texas at Austin, from the syllabus:
 
@@ -47,6 +55,10 @@ By the end of this course, you will be able to: 
 #### Course Content Online (other than CANVAS)
 
 I like to put content online for anyone to access.  Note: My online handle is ‘GeostatsGuy’. These are the online resources for the course:
+
+##### Course Online, Free e-book
+
+* [Applied Machine Learning in Python: a Hands-on Guide with Code](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html) - all course lectures as downloadable chapters with theory, codes and demonstration workflows linked to YouTube lectures.
 
 ##### GitHub
 
