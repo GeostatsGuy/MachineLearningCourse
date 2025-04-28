@@ -2,16 +2,57 @@
     <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
 </p>
 
+## Subsurface Machine Learning Graduate Course 
+
+### Professor Michael J. Pyrcz, The University of Texas at Austin
+
+This is the repository for my machine learning course projects. 
+
+#### Machine Learning Projects
+
+As part of this graduate level machine learning course, all students complete a machine learning project. 
+
+The challenge: build a well-documented, educational machine learning workflow.
+
+Here's the motivation and more details:
+
+* **produce a comprehensive, concise, well-documented, machine learning workflow in a Jupyter Notebook** - an opportunity to apply course learnings and demonstrate a high level of proficiency. With permission, I post the workflows online in this GitHub repository and use it to support future classes (with credit to the original authors).
+
+* **open-source** contributions to GitHub are recognized in many companies. I'm introducing my students to the benefits of contributing to open-source development, including to build up their CVs.
+
+* **workflows with educational content** - my students will develop new data science workflows in their careers, but for their workflows to be deployed and adopted they will have to teach the concepts to their peers. I'm introducing the behavoir of educating while deploying.
+
+* **going beyond course content** - while I can teach the theory and share examples, expertise in machine learning requires diving into each method and gaining experience with all the components, assumptions and limitations. This is required as a competent engineer or scientist!
+
+To assist I have provided a [project template](https://github.com/GeostatsGuy/MachineLearningCourse/blob/main/PGE383_ProjectTemplate.ipynb).
+
+* the workflows are graded by the following criteria:
+
+| Element                | Description |
+|------------------------|-------------|
+| Great Executive Summary | Gap, Work to Address Gap, Learnings and Recommendation |
+| Workflow Steps          |  All Aligned with Goal                                                                                                    |
+| Concise Workflow        | Every Step and Figure has a Purpose / Consistent with Provided Template / Features Briefly Explained / Feature have Units |
+| Images / Figures         | Excellent Figures / Subplots and Combined Plots for Efficient Displays and Communication / Axes Labeled / Consistent Figure Sizes |
+| Demonstrated Knowledge  | All Modeling Choices Defended / Demonstrated Extension of Knowledge                                                               | 
+| Readable Code           | Code Documentation / Steps’ Description and Observations between Code Blocks / Only Include Needed Packages / Use Function for Concise Code |
+| Citations               | All Code from Others Cited                                                                                                        |
+| Creativity / Innovation | Unique, Novel Application of Machine Learning                                                                                     |
+
+I share these to promote the students' work and to provide a link for their CVs. This is my goal,
+
+* upskill engineers and scientists with powerful data analytics, geostatistics and machine learning tools and skills!
+
 #### The Instructor:
 
 ### Michael Pyrcz, Professor, The University of Texas at Austin 
 *Novel Data Analytics, Geostatistics and Machine Learning Subsurface Solutions*
 
-With over 17 years of experience in subsurface consulting, research and development, Michael has returned to academia driven by his passion for teaching and enthusiasm for enhancing engineers' and geoscientists' impact in subsurface resource development. 
+With over 17 years of experience in subsurface consulting, research and development, Michael has returned to academia driven by his passion for teaching and enthusiasm for enhancing engineers' and geoscientists' impact in their jobs with data science. To do this I share all of my educational content online for evergreen content that outlasts the semester and to support students and working professionals around the world.
 
-For more about Michael check out these links:
+* for more about me and the educational resources that I share online check out these links:
 
-#### [Twitter](https://twitter.com/geostatsguy) | [GitHub](https://github.com/GeostatsGuy) | [Website](http://michaelpyrcz.com) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en&oi=ao) | [Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [YouTube](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)  | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1)
+[Twitter](https://twitter.com/geostatsguy) | [GitHub](https://github.com/GeostatsGuy) | [Website](http://michaelpyrcz.com) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en&oi=ao) | [Geostatistics Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [YouTube](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)  | [Applied Geostats in Python e-book](https://geostatsguy.github.io/GeostatsPyDemos_Book/intro.html) | [Applied Machine Learning in Python e-book](https://geostatsguy.github.io/MachineLearningDemos_Book/) | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1)
 
 #### Course TAs and Contributors:
 
@@ -113,38 +154,6 @@ Subsurface Data Analytics and Modeling:
 Pyrcz, M. and Deutsch, C., Geostatistical Reservoir Modeling, Oxford University Press, New York, 2014.                                  
 
 Also, various journal papers will be posted for reference.    
-
-#### Machine Learning Projects
-
-As part of the course, all students complete a machine learning project. 
-
-The challenge: build a well-documented, educational machine learning workflow.
-
-Here's the motivation and more details:
-
-* **produce a comprehensive, concise, well-documented, machine learning workflow in a Jupyter Notebook**. Opportunity to apply course learnings and demonstrate a high level of proficiency. With permission, I post the workflows online in this GitHub repository and use it to support future classes (with credit).
-
-* **open-source** contributions to GitHub are recognized in many companies.
-
-* to assist I have provided a [project template](https://github.com/GeostatsGuy/MachineLearningCourse/blob/main/PGE383_ProjectTemplate.ipynb).
-
-* the workflows are graded by the following criteria:
-
-| Element                | Description |
-|------------------------|-------------|
-| Great Executive Summary | Gap, Work to Address Gap, Learnings and Recommendation |
-| Workflow Steps          |  All Aligned with Goal                                                                                                    |
-| Concise Workflow        | Every Step and Figure has a Purpose / Consistent with Provided Template / Features Briefly Explained / Feature have Units |
-| Images / Figures         | Excellent Figures / Subplots and Combined Plots for Efficient Displays and Communication / Axes Labeled / Consistent Figure Sizes |
-| Demonstrated Knowledge  | All Modeling Choices Defended / Demonstrated Extension of Knowledge                                                               | 
-| Readable Code           | Code Documentation / Steps’ Description and Observations between Code Blocks / Only Include Needed Packages / Use Function for Concise Code |
-| Citations               | All Code from Others Cited                                                                                                        |
-| Creativity / Innovation | Unique, Novel Application of Machine Learning                                                                                     |
-
-I share these to promote the students' work. 
-
-* We are teaching novel data analytics, geostatistics and machine learning skills to engineering and science students.
-
 
 #### This is Going to Be Fun
 
