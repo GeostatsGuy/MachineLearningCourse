@@ -6,11 +6,11 @@
 
 ### Professor Michael J. Pyrcz, The University of Texas at Austin
 
-This is the repository for my machine learning course projects. 
+This is the repository for my machine learning course's **final course projects**. 
 
 #### Machine Learning Projects
 
-As part of this graduate level machine learning course, all students complete a machine learning project. 
+As part of this graduate level machine learning course, all students complete a machine learning final course project. 
 
 The challenge: build a well-documented, educational machine learning workflow.
 
