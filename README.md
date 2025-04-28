@@ -16,15 +16,17 @@ The challenge: build a well-documented, educational machine learning workflow.
 
 Here's the motivation and more details:
 
-* **produce a comprehensive, concise, well-documented, machine learning workflow in a Jupyter Notebook** - an opportunity to apply course learnings and demonstrate a high level of proficiency. With permission, I post the workflows online in this GitHub repository and use it to support future classes (with credit to the original authors).
+* **produce a comprehensive, concise, well-documented, machine learning workflow in a Jupyter Notebook** - an opportunity to apply course learnings and demonstrate a high level of proficiency.
 
-* **open-source** contributions to GitHub are recognized in many companies. I'm introducing my students to the benefits of contributing to open-source development, including to build up their CVs.
+* **open-source** - contributions to GitHub are recognized in many companies. I'm introducing my students to the benefits of contributing to open-source development, including to build up their CVs.
 
 * **workflows with educational content** - my students will develop new data science workflows in their careers, but for their workflows to be deployed and adopted they will have to teach the concepts to their peers. I'm introducing the behavoir of educating while deploying.
 
 * **going beyond course content** - while I can teach the theory and share examples, expertise in machine learning requires diving into each method and gaining experience with all the components, assumptions and limitations. This is required as a competent engineer or scientist!
 
-To assist I have provided a [project template](https://github.com/GeostatsGuy/MachineLearningCourse/blob/main/PGE383_ProjectTemplate.ipynb).
+* **To assist my students**, I have provided a [project template](https://github.com/GeostatsGuy/MachineLearningCourse/blob/main/PGE383_ProjectTemplate.ipynb).
+
+With permission, I post the workflows online in this GitHub repository and use it to support future classes (with credit to the original authors).
 
 * the workflows are graded by the following criteria:
 
@@ -38,10 +40,6 @@ To assist I have provided a [project template](https://github.com/GeostatsGuy/Ma
 | Readable Code           | Code Documentation / Steps’ Description and Observations between Code Blocks / Only Include Needed Packages / Use Function for Concise Code |
 | Citations               | All Code from Others Cited                                                                                                        |
 | Creativity / Innovation | Unique, Novel Application of Machine Learning                                                                                     |
-
-I share these to promote the students' work and to provide a link for their CVs. This is my goal,
-
-* upskill engineers and scientists with powerful data analytics, geostatistics and machine learning tools and skills!
 
 #### The Instructor:
 
