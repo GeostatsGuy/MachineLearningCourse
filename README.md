@@ -32,14 +32,14 @@ With permission, I post the workflows online in this GitHub repository and use i
 
 | Element                | Description |
 |------------------------|-------------|
-| Great Executive Summary | Gap, Work to Address Gap, Learnings and Recommendation |
-| Workflow Steps          |  All Aligned with Goal                                                                                                    |
-| Concise Workflow        | Every Step and Figure has a Purpose / Consistent with Provided Template / Features Briefly Explained / Feature have Units |
-| Images / Figures         | Excellent Figures / Subplots and Combined Plots for Efficient Displays and Communication / Axes Labeled / Consistent Figure Sizes |
-| Demonstrated Knowledge  | All Modeling Choices Defended / Demonstrated Extension of Knowledge                                                               | 
-| Readable Code           | Code Documentation / Steps’ Description and Observations between Code Blocks / Only Include Needed Packages / Use Function for Concise Code |
-| Citations               | All Code from Others Cited                                                                                                        |
-| Creativity / Innovation | Unique, Novel Application of Machine Learning                                                                                     |
+| Executive Summary | Concisely cover - 1. Gap, 2. Work to Address Gap, 3. Learnings and 4. Recommendations |
+| Workflow Steps          | All Step Defended and Aligned with Goal |
+| Concise Workflow        | Every Step and Figure has a Purpose / Breifly Cover Problem Setting, Data and Machine Learning Methods / All Results Discussed and Address the Gap |
+| Images / Figures        | Excellent Figures / Subplots and Combined Plots for Efficient Displays and Communication / Axes Consistent and Labeled / Consistent Figure Sizes / Customization and Annotation to Clarify Message |
+| Demonstrated Knowledge  | Methods Described / All Modeling Choices Defended / Demonstrated Extension of Knowledge | 
+| Readable Code           | Code Documentation / Steps’ Description and Observations between Code Blocks / Only Include Needed Packages / Use Functions for Concise, Reabable Code |
+| Citations               | All Code from Others Cited |
+| Creativity / Innovation | Unique, Novel Application or Investigation of Machine Learning |
 
 #### The Instructor:
 
