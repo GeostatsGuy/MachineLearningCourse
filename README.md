@@ -43,7 +43,7 @@ With permission, I post the workflows online in this GitHub repository and use i
 
 #### Course Content
 
-My entire machine learning course is shared online to support students and working professionals all over the world. This includes,
+My entire machine learning course is shared online to provide evergreen course content that outlasts the semester and to support students and working professionals anywhere. This includes,
 
 * [free, online e-book](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html)
 
