@@ -41,7 +41,7 @@ With permission, I post the workflows online in this GitHub repository and use i
 | Citations               | All Code from Others Cited |
 | Creativity / Innovation | Unique, Novel Application or Investigation of Machine Learning |
 
-#### Course Content
+#### Open Course Content
 
 My entire machine learning course is shared online to provide evergreen course content that outlasts the semester and to support students and working professionals anywhere. This includes,
 
