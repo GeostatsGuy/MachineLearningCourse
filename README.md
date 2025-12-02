@@ -41,6 +41,28 @@ With permission, I post the workflows online in this GitHub repository and use i
 | Citations               | All Code from Others Cited |
 | Creativity / Innovation | Unique, Novel Application or Investigation of Machine Learning |
 
+#### Course Content
+
+My entire machine learning course is shared online to support students and working professionals all over the world. This includes,
+
+* [free, online e-book](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html)
+
+* [YouTube lectures](https://www.youtube.com/playlist?list=PLG19vXLQHvSC2ZKFIkgVpI9fCjkN38kwf)
+
+I recommend working through the e-book with,
+
+* short summaries of the theory
+
+* links to the recorded lectures
+
+* well-documented demonstration workflows
+
+* links to interactive Python dashboards
+
+Folks all over the world are learning data analytics, geostatistics and machine learning from me, and I'm stoked to help out! Education changes lives! Interested in why I make and share so much educational content? 
+
+* [Michael's Story](https://michaelpyrcz.com/my-story)
+
 #### The Instructor:
 
 ### Michael Pyrcz, Professor, The University of Texas at Austin 
@@ -66,10 +88,8 @@ With over 17 years of experience in subsurface consulting, research and developm
 ##### Fall 2022 - Misael Morales, Graduate Student, The University of Texas at Austin
 #### [LinkedIn](https://www.linkedin.com/in/misaelmmorales/) | [Website](https://michaelpyrcz.com/my-students-1)
 
-
 ##### Fall 2023 Lei Liu, Graduate Student, The University of Texas at Austin
 #### [LinkedIn](https://www.linkedin.com/in/leiliu96/) | [Website](https://michaelpyrcz.com/my-students-1)
-
 
 ##### Spring 2025 - Elnara Rustamzade, Graduate Student, The University of Texas at Austin
 #### [LinkedIn](https://www.linkedin.com/in/elnara-rustamzade/) | [Website](https://michaelpyrcz.com/my-students-1)
